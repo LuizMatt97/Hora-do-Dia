@@ -84,4 +84,14 @@ footer{
     
         width: 300px;
     }
+
+    .relogio {
+        height: 120px;
+        width: 300px;
+        
+    }
+
+    .relogio div {
+        font-size: 40px;
+    }
 }
