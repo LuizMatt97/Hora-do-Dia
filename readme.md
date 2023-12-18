@@ -3,3 +3,5 @@ Funcionalidade - Mostrar o horário aproximado com uma foto de acordo com esse h
 9H, Manhã (muda cor e foto)
 15H, Tarde (muda cor e foto)
 21H, Noite (muda cor e foto)
+
+Atualização: Relógio em tempo real adicionado :)
